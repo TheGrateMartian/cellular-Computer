@@ -1,17 +1,41 @@
 {
   "files": {
     "main.css": "./static/css/main.b7454912.css",
-    "main.js": "./static/js/main.80a02a0c.js",
+    "main.js": "./static/js/main.9356ed24.js",
     "static/js/787.4d705996.chunk.js": "./static/js/787.4d705996.chunk.js",
     "static/media/bg.jpg": "./static/media/bg.d9dcaa53ddf3c48ed95c.jpg",
+    "static/media/EndoRet.svg": "./static/media/EndoRet.e385a901fdbe9c54f5672451634a0415.svg",
+    "static/media/AminoAcids.svg": "./static/media/AminoAcids.2f9a645b7272cf29035368435ca513e8.svg",
+    "static/media/CellWall.svg": "./static/media/CellWall.41f5e86047e66b332bfe5b4a12d72f02.svg",
+    "static/media/DiffusionCell.svg": "./static/media/DiffusionCell.b87956d9776807cec87153b1ef7afa0c.svg",
+    "static/media/NucleicAcids.svg": "./static/media/NucleicAcids.6d69ce4242d3dd0452050ddba82b0b02.svg",
+    "static/media/Nucleus.svg": "./static/media/Nucleus.dc9547fe03db20471ac2e64e006ed891.svg",
+    "static/media/Vacuole.svg": "./static/media/Vacuole.8ba7e0956676c681aeee8e2803e9e207.svg",
+    "static/media/Cables.svg": "./static/media/Cables.098e78c10489534562c5ad0e8062fbd9.svg",
+    "static/media/OsmosisCell.svg": "./static/media/OsmosisCell.089aa3e518cca7ead2e20805216e241f.svg",
+    "static/media/OsmisisPC.svg": "./static/media/OsmisisPC.cdb9c035b10cf84127bbeea51303a1a5.svg",
+    "static/media/PowerBrick.svg": "./static/media/PowerBrick.5af3aa6d2fc0087a3938812d1febb0b7.svg",
+    "static/media/Chloroplast.svg": "./static/media/Chloroplast.d826fd68e3d29e2bae3826ec2ea06f1b.svg",
+    "static/media/Mitochondria.svg": "./static/media/Mitochondria.068d2e96215c51a60c0d683228ccf25f.svg",
+    "static/media/Antivirus.svg": "./static/media/Antivirus.4d93dd3c254ddf7116e77897e02d3ff3.svg",
+    "static/media/ElectricEnergy.svg": "./static/media/ElectricEnergy.b7bee15ff8047a0efb04c0c69fa53ec6.svg",
+    "static/media/CPU.svg": "./static/media/CPU.b1195555f936b135679651452982a9d2.svg",
+    "static/media/Motherboard.svg": "./static/media/Motherboard.1f154d5865253cba256faff330b1c5cb.svg",
+    "static/media/SSD.svg": "./static/media/SSD.562cb802fe12aadc89eba3c067238659.svg",
     "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/GPU.svg": "./static/media/GPU.d7c082b36c5ff885d461670a89eee655.svg",
+    "static/media/Bytes.svg": "./static/media/Bytes.c5857d22b3ec46aeb569509b815ec223.svg",
+    "static/media/Carbs.svg": "./static/media/Carbs.efcb5d88047fbad3a01136bff7ba3aba.svg",
+    "static/media/DiffusionPC.svg": "./static/media/DiffusionPC.073897e81f9cad36ac0d4259d0b57276.svg",
+    "static/media/Container.svg": "./static/media/Container.eb371a5c4e58ab28f22c1a5eec46cb3b.svg",
+    "static/media/Cytoplasm.svg": "./static/media/Cytoplasm.9a7ebf27ecb571528d746e7a3930857c.svg",
     "index.html": "./index.html",
     "main.b7454912.css.map": "./static/css/main.b7454912.css.map",
-    "main.80a02a0c.js.map": "./static/js/main.80a02a0c.js.map",
+    "main.9356ed24.js.map": "./static/js/main.9356ed24.js.map",
     "787.4d705996.chunk.js.map": "./static/js/787.4d705996.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b7454912.css",
-    "static/js/main.80a02a0c.js"
+    "static/js/main.9356ed24.js"
   ]
 }

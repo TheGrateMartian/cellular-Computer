@@ -18,9 +18,9 @@ function Game() {
     function correct(index) {
         setPopUp({
             first:
-                {img: Pairs[index].firstImage, text: Pairs[index].left},
+                {img: Pairs[index].firstImage, text: Pairs[index].right},
             second:
-                {img: Pairs[index].secondImage, text: Pairs[index].right}
+                {img: Pairs[index].secondImage, text: Pairs[index].left}
         })
     }
 
@@ -45,8 +45,8 @@ function Game() {
     }
 
     React.useEffect(() => {
-        let left = Pairs.map((v) => v.left);
-        let right = Pairs.map((v) => v.right);
+        let left = Pairs.map((v) => v.right);
+        let right = Pairs.map((v) => v.left);
         shuffleArray(left)
         shuffleArray(right)
         setArrays({left: left, right: right})
